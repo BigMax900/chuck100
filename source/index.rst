@@ -13,8 +13,10 @@
 
 课程大纲：
 
-统计学入门：'statistics/basic/descriptive'，'statistics/basic/data_trends'
+统计学入门：`描述性数据 <https://wiki.chuck.vip/statistics/basic/descriptive/>`_、`数据趋势<https://wiki.chuck.vip/statistics/basic/data_trends/>`
+
 统计学进阶：
+
 统计学精通：
 
 .. toctree::
