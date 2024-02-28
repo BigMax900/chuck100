@@ -7,14 +7,3 @@
 
 某些算法（如决策树）可用于分类和回归。
 
-.. toctree::
-   :maxdepth: 2
-   :caption: 监督学习
-
-   linear_regression
-   perceptron
-   logistic_regression
-   bayes_classifiers
-   knn
-   svm
-   decision_trees

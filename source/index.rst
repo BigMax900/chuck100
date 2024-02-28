@@ -42,6 +42,7 @@
    AI/supervised
    AI/ml
    AI/dl
+   AI/nlp
 
 我的课程
 ==================
