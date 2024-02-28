@@ -11,13 +11,11 @@
 
 介绍面向应用语言学、教育学、社会科学的统计学知识。所有内容均面向相关领域提供了定制化内容，方便理解和应用。
 
-`统计学入门 <https://wiki.chuck.vip/statistics/basic/intro/>`_： `数据趋势 <https://wiki.chuck.vip/statistics/basic/data_trends/>`_、 `描述性数据 <https://wiki.chuck.vip/statistics/basic/descriptive/>`_、 `推断性统计 <https://wiki.chuck.vip/statistics/basic/inferential/>`_、 `正态分布 <https://wiki.chuck.vip/statistics/basic/normal_distribution/>`_、 `差异检验t-test <https://wiki.chuck.vip/statistics/basic/t-test/>`_、 `相关关系 <https://wiki.chuck.vip/statistics/basic/association/>`_、 `效应量 <https://wiki.chuck.vip/statistics/basic/effect_size/>`_
+统计学入门： `数据趋势 <https://wiki.chuck.vip/statistics/basic/data_trends/>`_、 `描述性数据 <https://wiki.chuck.vip/statistics/basic/descriptive/>`_、 `推断性统计 <https://wiki.chuck.vip/statistics/basic/inferential/>`_、 `正态分布 <https://wiki.chuck.vip/statistics/basic/normal_distribution/>`_、 `差异检验t-test <https://wiki.chuck.vip/statistics/basic/t-test/>`_、 `相关关系 <https://wiki.chuck.vip/statistics/basic/association/>`_、 `效应量 <https://wiki.chuck.vip/statistics/basic/effect_size/>`_
 
-统计学进阶： `回归 <https://wiki.chuck.vip/statistics/intermediate/regression/>`_、 `方差分析ANOVA <https://wiki.chuck.vip/statistics/intermediate/anova/>`_、 `逻辑回归 <https://wiki.chuck.vip/statistics/intermediate/logistics/>`_
+统计学进阶： `回归 <https://wiki.chuck.vip/statistics/intermediate/regression/>`_、 `方差分析ANOVA <https://wiki.chuck.vip/statistics/intermediate/anova/>`_、 `协方差分析 <https://wiki.chuck.vip/statistics/intermediate/ANCOVA/>`_、 `逻辑回归 <https://wiki.chuck.vip/statistics/intermediate/logistics/>`_、 `中介分析 <https://wiki.chuck.vip/statistics/intermediate/mediation/#>`_、 `调节分析 <https://wiki.chuck.vip/statistics/intermediate/moderation/#>`_、 `因子分析 <https://wiki.chuck.vip/statistics/intermediate/factor_analysis/#>`_
 
-统计学精通：
-
-问卷分析专题：
+统计学高阶：`结构方程模型 <>`_
 
 
 应用语言学推荐书目
