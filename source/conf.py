@@ -62,9 +62,3 @@ html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
 
 html_title = "满分察克"
-
-# Sphinx配置文件中的html_sidebars选项示例
-html_sidebars = {
-    '**': ['globaltoc.html', 'sourcelink.html', 'searchbox.html'],
-    'index': []
-}
