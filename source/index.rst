@@ -55,6 +55,7 @@ SSCI收录期刊列表（2024年最新）
    statistics/basic_concepts
    statistics/basic/intro
    statistics/intermediate/intro
+   statistics/advanced/intro
 
 .. toctree::
    :maxdepth: 1
