@@ -12,12 +12,13 @@
 
    d = \frac{\bar{X}_1 - \bar{X}_2}{s_{pooled}}
 
+.. math::
 
    r = \frac{\sum (X_i - \bar{X})(Y_i - \bar{Y})}{\sqrt{\sum (X_i - \bar{X})^2 \sum (Y_i - \bar{Y})^2}}
 
+.. math::
 
    \eta^2 = \frac{SS_{between}}{SS_{total}}
-
 
 其中，\(\bar{X}_1\) 和 \(\bar{X}_2\) 是两个群体的平均值，\(s_{pooled}\) 是合并标准差。
 
