@@ -26,12 +26,11 @@
    book/sociolinguistics
    book/sla
 
-索引和表格
+我的课程
 ==================
+.. toctree::
+   :maxdepth: 1
+   :caption: 我的课程
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-
-
+   course/1v1
+   course/class
