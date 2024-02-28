@@ -52,7 +52,6 @@ SSCI收录期刊列表（2024年最新）
    :caption: 统计学
 
    statistics/intro
-   statistics/basic_concepts
    statistics/basic/intro
    statistics/intermediate/intro
    statistics/advanced/intro
@@ -81,4 +80,4 @@ SSCI收录期刊列表（2024年最新）
    course/1v1
    course/class
 
-最后修订时间：2024年2月28日17:15:00（英国牛津）
+最后修订时间：2024年2月28日17:15:00
