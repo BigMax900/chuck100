@@ -39,10 +39,10 @@
    :caption: 教育&人工智能
 
    AI/intro
-   AI/supervised
-   AI/ml
-   AI/dl
-   AI/nlp
+   AI/supervised/intro
+   AI/ml/intro
+   AI/dl/intro
+   AI/nlp/intro
 
 我的课程
 ==================
