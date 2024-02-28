@@ -13,7 +13,7 @@
 
 课程大纲：
 
-统计学入门：`描述性数据 <https://wiki.chuck.vip/statistics/basic/descriptive/>`_、`数据趋势<https://wiki.chuck.vip/statistics/basic/data_trends/>`
+`统计学入门<https://wiki.chuck.vip/statistics/basic/intro/>`_： `数据趋势<https://wiki.chuck.vip/statistics/basic/data_trends/>`_、 `描述性数据 <https://wiki.chuck.vip/statistics/basic/descriptive/>`_、 `推断性统计<https://wiki.chuck.vip/statistics/basic/inferential/>`_、 `正态分布<https://wiki.chuck.vip/statistics/basic/normal_distribution/>`_、 `差异检验<https://wiki.chuck.vip/statistics/basic/t-test/>`_
 
 统计学进阶：
 
@@ -31,34 +31,22 @@
 
 应用语言学推荐书目
 ==================
-.. toctree::
-   :maxdepth: 1
-   :caption: 推荐书目
 
-   book/sociolinguistics
-   book/sla
+二语习得理论、社会语言学、个体差异、
+
+教学法、研究法、量性分析方法、质性分析方法
+
+SSCI收录期刊列表（2024年最新）
 
 教育&人工智能
 ==================
 本套课程聚焦教育领域的实用AI技术。
 
-.. toctree::
-   :maxdepth: 1
-   :caption: 教育&人工智能
+`监督学习<https://wiki.chuck.vip/ai/supervised/intro/>`_： `线性回归<https://wiki.chuck.vip/ai/supervised/linear_regression/>`_、
 
-   AI/intro
-   AI/supervised/intro
-   AI/ml/intro
-   AI/dl/intro
-   AI/nlp/intro
 
 我的课程
 ==================
-.. toctree::
-   :maxdepth: 1
-   :caption: 我的课程
 
-   course/1v1
-   course/class
 
 最后修订时间：2024年2月28日17:15:00（英国牛津）
