@@ -18,20 +18,20 @@
    statistics/basic/intro
    statistics/basic/data_trends
    statistics/basic/descriptive
-   statistics/inferential
-   statistics/normal_distribution
-   statistics/t-test
-   statistics/association
+   statistics/basic/inferential
+   statistics/basic/normal_distribution
+   statistics/basic/t-test
+   statistics/basic/association
    statistics/basic/effect_size
    statistics/intermediate/regression
    statistics/intermediate/ANOVA
    statistics/intermediate/ANCOVA
    statistics/intermediate/logistics
-   statistics/mediation
-   statistics/moderation
-   statistics/interaction
-   statistics/factor_analysis
-   statistics/missing_data
+   statistics/intermediate/mediation
+   statistics/intermediate/moderation
+   statistics/intermediate/interaction
+   statistics/intermediate/factor_analysis
+   statistics/intermediate/missing_data
 
 
 应用语言学推荐书目
