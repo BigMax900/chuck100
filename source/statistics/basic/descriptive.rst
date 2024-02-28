@@ -19,7 +19,9 @@
 
    \text{均值 (Mean)}: \bar{x} = \frac{1}{n}\sum_{i=1}^{n}x_i
 
+
    \text{标准差 (Standard Deviation)}: s = \sqrt{\frac{1}{n-1}\sum_{i=1}^{n}(x_i - \bar{x})^2}
+
 
 语言学习领域的案例
 -------------------
@@ -32,10 +34,6 @@ Python 计算描述性统计
 在 Python 中，我们可以使用 `pandas` 和 `numpy` 库来计算描述性统计。
 
 .. code-block:: python
-   :linenos:
-   :emphasize-lines: 8,9
-   :linenos:
-   :wrap:
 
    import pandas as pd
    import numpy as np
