@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '满分察克'
-copyright = '2024, Chuck'
-author = 'Chuck'
+project = ''
+copyright = '2024, 察克'
+author = '察克'
 
 # The full version, including alpha/beta/rc tags
-release = '2024.02.27'
+release = 'v0.0.1 beta'
 
 
 # -- General configuration ---------------------------------------------------
@@ -62,3 +62,9 @@ html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
 
 html_title = "满分察克"
+
+# Sphinx配置文件中的html_sidebars选项示例
+html_sidebars = {
+    '**': ['globaltoc.html', 'sourcelink.html', 'searchbox.html'],
+    'index': []
+}
