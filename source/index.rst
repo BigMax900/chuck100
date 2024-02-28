@@ -17,15 +17,6 @@
    statistics/basic_concepts
    statistics/basic/intro
    statistics/intermediate/intro
-   statistics/intermediate/regression
-   statistics/intermediate/ANOVA
-   statistics/intermediate/ANCOVA
-   statistics/intermediate/logistics
-   statistics/intermediate/mediation
-   statistics/intermediate/moderation
-   statistics/intermediate/interaction
-   statistics/intermediate/factor_analysis
-   statistics/intermediate/missing_data
 
 
 应用语言学推荐书目
