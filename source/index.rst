@@ -15,13 +15,14 @@
 
    statistics/intro
    statistics/basic_concepts
+   statistics/basic/intro
    statistics/basic/data_trends
    statistics/basic/descriptive
    statistics/inferential
    statistics/normal_distribution
    statistics/t-test
    statistics/association
-   statistics/effect_size
+   statistics/basic/effect_size
    statistics/intermediate/regression
    statistics/intermediate/ANOVA
    statistics/intermediate/ANCOVA
