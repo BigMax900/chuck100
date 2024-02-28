@@ -11,8 +11,14 @@
 
 介绍面向应用语言学、教育学、社会科学的统计学知识。所有内容均面向相关领域提供了定制化内容，方便理解和应用。
 
+课程大纲：
+
+统计学入门：'statistics/basic/descriptive'，'statistics/basic/data_trends'
+统计学进阶：
+统计学精通：
+
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    :caption: 统计学
 
    statistics/intro
