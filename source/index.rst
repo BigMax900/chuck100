@@ -23,6 +23,7 @@
    statistics/basic/t-test
    statistics/basic/association
    statistics/basic/effect_size
+   statistics/intermediate/intro
    statistics/intermediate/regression
    statistics/intermediate/ANOVA
    statistics/intermediate/ANCOVA
