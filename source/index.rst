@@ -38,10 +38,13 @@ SSCI收录期刊列表（2024年最新）
 `监督学习 <https://wiki.chuck.vip/ai/supervised/intro/>`_： `线性回归 <https://wiki.chuck.vip/ai/supervised/linear_regression/>`_、
 
 
-
-
 我的课程
 ==================
+
+`1对1个性化VIP课程 <https://wiki.chuck.vip/course/1v1/>`_
+
+`精品录播课 <https://wiki.chuck.vip/course/class/>`_
+
 
 站点目录
 ==================
@@ -72,7 +75,7 @@ SSCI收录期刊列表（2024年最新）
    AI/dl/intro
    AI/nlp/intro
 
-   .. toctree::
+.. toctree::
    :maxdepth: 1
    :caption: 我的课程
 
