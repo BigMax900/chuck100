@@ -1,37 +1,21 @@
 =================
-Sphinx on Netlify
+满分察克
 =================
 
-Minimalistic Example of Hosting Sphnix on Neltify.
+本网站用于满分察克的教学材料，包括统计学知识，课堂教学材料，每个领域的推荐书籍。
 
-Install
-========
+# 统计学（面向语言专业）
+介绍面向应用语言学、教育学、社会科学的统计学知识。所有内容均面向相关领域提供了定制化内容，方便理解和应用。
 
-Just clone this repository and then delpying it from `Netlify`_. Nothing need to be changed and it will work out of the box.
+```{toctree}
+:maxdepth: 1
+:caption: 统计学（面向语言专业）
 
-
-Tweaking
-========
-
-You can tweak and play with your newly deployed website. Feel free to browse through the `sphinx`_ documentation to tweak the outputs as per your requiremetns.
-
-Pull Request
-============
-
-If you have suggestion/improvements then please consider submitting a pull request or create an issue.
-
-Contact US
-============
-
-Feel free to drop us a line on our `contact-us`_ form for further questions/collaboration.
-
-
-.. toctree::
-   :maxdepth: 2
-
-   intro
-   descriptive_statistics/index
-   inferential_statistics
+intro
+statistics
+descriptive_statistics/index
+inferential_statistics
+   
 
 .. _sphinx: https://www.sphinx-doc.org/en/master/
 .. _Netlify: https://www.netlify.com/
