@@ -29,6 +29,14 @@ Feel free to drop us a line on our `contact-us`_ form for further questions/coll
 .. toctree::
    :maxdepth: 2
 
+   intro
+   descriptive_statistics/index
+   inferential_statistics
+
 .. _sphinx: https://www.sphinx-doc.org/en/master/
 .. _Netlify: https://www.netlify.com/
 .. _contact-us: https://www.seowings.org/contact-us/
+
+
+
+
