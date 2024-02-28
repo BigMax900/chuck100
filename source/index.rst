@@ -46,17 +46,6 @@ SSCI收录期刊列表（2024年最新）
 站点目录
 ==================
 
-
-
-
-.. toctree::
-   :maxdepth: 0
-   :caption: 我的课程
-
-   course/1v1
-   course/class
-
-
 .. toctree::
    :maxdepth: 1
    :caption: 统计学
@@ -67,14 +56,14 @@ SSCI收录期刊列表（2024年最新）
    statistics/intermediate/intro
 
 .. toctree::
-   :maxdepth: 0
+   :maxdepth: 1
    :caption: 推荐书目
 
    book/sociolinguistics
    book/sla
 
 .. toctree::
-   :maxdepth: 0
+   :maxdepth: 1
    :caption: 教育&人工智能
 
    AI/intro
@@ -82,5 +71,12 @@ SSCI收录期刊列表（2024年最新）
    AI/ml/intro
    AI/dl/intro
    AI/nlp/intro
+
+   .. toctree::
+   :maxdepth: 1
+   :caption: 我的课程
+
+   course/1v1
+   course/class
 
 最后修订时间：2024年2月28日17:15:00（英国牛津）
