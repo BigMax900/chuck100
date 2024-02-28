@@ -11,5 +11,5 @@
    p_value
    normal_distribution
    t-test
-   association
+   correlation
    effect_size
