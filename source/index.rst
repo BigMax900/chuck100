@@ -9,18 +9,17 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: 统计学（面向语言专业）
 
-intro
-statistics
-descriptive_statistics/index
-inferential_statistics
-   
+   intro
+   descriptive_statistics/index
+   inferential_statistics
 
-.. _sphinx: https://www.sphinx-doc.org/en/master/
-.. _Netlify: https://www.netlify.com/
-.. _contact-us: https://www.seowings.org/contact-us/
+索引和表格
+==================
 
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
 
 
 
