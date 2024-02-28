@@ -16,13 +16,6 @@
    statistics/intro
    statistics/basic_concepts
    statistics/basic/intro
-   statistics/basic/data_trends
-   statistics/basic/descriptive
-   statistics/basic/inferential
-   statistics/basic/normal_distribution
-   statistics/basic/t-test
-   statistics/basic/association
-   statistics/basic/effect_size
    statistics/intermediate/intro
    statistics/intermediate/regression
    statistics/intermediate/ANOVA
