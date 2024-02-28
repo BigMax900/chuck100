@@ -14,8 +14,8 @@
    :caption: 统计学
 
    statistics/intro
-   statistics/descriptive_statistics
-   statistics/inferential_statistics
+   statistics/descriptive
+   statistics/inferential
 
 应用语言学推荐书目
 ==================
