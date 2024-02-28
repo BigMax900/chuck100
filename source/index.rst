@@ -10,7 +10,7 @@
 介绍面向应用语言学、教育学、社会科学的统计学知识。所有内容均面向相关领域提供了定制化内容，方便理解和应用。
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: 统计学
 
    statistics/intro
