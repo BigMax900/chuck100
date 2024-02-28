@@ -1,5 +1,5 @@
 [build.environment]
-  PYTHON_VERSION = "3.9"
+  PYTHON_VERSION = "3.8"
 
 [build]
   publish = "build/dirhtml"
