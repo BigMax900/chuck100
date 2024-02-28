@@ -19,15 +19,6 @@
 
 统计学精通：
 
-.. toctree::
-   :maxdepth: 1
-   :caption: 统计学
-
-   statistics/intro
-   statistics/basic_concepts
-   statistics/basic/intro
-   statistics/intermediate/intro
-
 
 应用语言学推荐书目
 ==================
@@ -38,18 +29,49 @@
 
 SSCI收录期刊列表（2024年最新）
 
-.. toctree::
-   :maxdepth: 0
-   :caption: 推荐书目
 
-   book/sociolinguistics
-   book/sla
 
 教育&人工智能
 ==================
 本套课程聚焦教育领域的实用AI技术。
 
 `监督学习 <https://wiki.chuck.vip/ai/supervised/intro/>`_： `线性回归 <https://wiki.chuck.vip/ai/supervised/linear_regression/>`_、
+
+
+
+
+我的课程
+==================
+
+站点目录
+==================
+
+
+
+
+.. toctree::
+   :maxdepth: 0
+   :caption: 我的课程
+
+   course/1v1
+   course/class
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: 统计学
+
+   statistics/intro
+   statistics/basic_concepts
+   statistics/basic/intro
+   statistics/intermediate/intro
+
+.. toctree::
+   :maxdepth: 0
+   :caption: 推荐书目
+
+   book/sociolinguistics
+   book/sla
 
 .. toctree::
    :maxdepth: 0
@@ -60,17 +82,5 @@ SSCI收录期刊列表（2024年最新）
    AI/ml/intro
    AI/dl/intro
    AI/nlp/intro
-
-
-我的课程
-==================
-
-.. toctree::
-   :maxdepth: 0
-   :caption: 我的课程
-
-   course/1v1
-   course/class
-
 
 最后修订时间：2024年2月28日17:15:00（英国牛津）
