@@ -12,9 +12,12 @@
 
    d = \frac{\bar{X}_1 - \bar{X}_2}{s_{pooled}}
 
+
    r = \frac{\sum (X_i - \bar{X})(Y_i - \bar{Y})}{\sqrt{\sum (X_i - \bar{X})^2 \sum (Y_i - \bar{Y})^2}}
 
+
    \eta^2 = \frac{SS_{between}}{SS_{total}}
+
 
 其中，\(\bar{X}_1\) 和 \(\bar{X}_2\) 是两个群体的平均值，\(s_{pooled}\) 是合并标准差。
 
@@ -29,10 +32,6 @@ Python 计算效应量
 在 Python 中，我们可以使用 `statsmodels` 库来计算效应量。
 
 .. code-block:: python
-   :linenos:
-   :emphasize-lines: 3,5
-   :linenos:
-   :wrap:
 
    import numpy as np
    from statsmodels.stats import effect_size
@@ -65,4 +64,3 @@ Excel 计算效应量
 -----
 
 效应量是理解研究结果实际意义的重要工具。不同的统计软件和编程语言提供了不同的方法来计算效应量，研究者应根据自己的需求和可用资源选择合适的计算方式。
-``
