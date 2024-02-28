@@ -21,7 +21,7 @@ sitemap_filename = "sitemap.xml"
 
 html_css_files = ['custom.css']
 html_js_files = ['custom.js']
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'sphinx_book_theme'
 html_baseurl = 'https://sphinx-netlify.netlify.app/'
 html_theme_options = {
     'current_version': version,
