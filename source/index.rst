@@ -11,10 +11,20 @@
 
 .. toctree::
    :maxdepth: 2
+   :caption: 统计学
 
    intro
    descriptive_statistics/index
    inferential_statistics
+
+应用语言学推荐书目
+==================
+.. toctree::
+   :maxdepth: 1
+   :caption: 推荐书目
+
+   book/sociolinguistics
+   book/sla
 
 索引和表格
 ==================
