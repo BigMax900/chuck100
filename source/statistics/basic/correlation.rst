@@ -12,7 +12,7 @@
 
 .. math::
 
-   r = \\frac{\\sum (X_i - \\bar{X})(Y_i - \\bar{Y})}{\\sqrt{\\sum (X_i - \\bar{X})^2 \\sum (Y_i - \\bar{Y})^2}}
+   r = \frac{\sum (X_i - \bar{X})(Y_i - \bar{Y})}{\sqrt{\sum (X_i - \bar{X})^2 \sum (Y_i - \bar{Y})^2}}
 
 其中，:math:`X_i` 和 :math:`Y_i` 分别是两个变量的观测值，:math:`\\bar{X}` 和 :math:`\\bar{Y}` 分别是这些观测值的平均数。
 
