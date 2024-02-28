@@ -15,17 +15,17 @@
 
    statistics/intro
    statistics/basic_concepts
-   statistics/data_trends
+   statistics/basic/data_trends
+   statistics/basic/descriptive
    statistics/inferential
    statistics/normal_distribution
    statistics/t-test
    statistics/association
    statistics/effect_size
-   statistics/descriptive
-   statistics/regression
-   statistics/ANOVA
-   statistics/ANCOVA
-   statistics/logistics
+   statistics/intermediate/regression
+   statistics/intermediate/ANOVA
+   statistics/intermediate/ANCOVA
+   statistics/intermediate/logistics
    statistics/mediation
    statistics/moderation
    statistics/interaction
