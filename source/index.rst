@@ -2,33 +2,33 @@
 满分察克
 =================
 
-欢迎访问满分察克出品的学习网站，
+欢迎访问满分察克的学习网站，
 
-我会在这里持续更新统计学知识，教育领域人工智能应用、英语老师教学材料，以及每个领域的推荐书籍。
+我会在这里持续更新文科生常用的统计学知识，教育领域人工智能应用、英语老师教学材料，以及每个领域的推荐书籍。
 
 统计学（面向语言专业）
 ==================
 
 介绍面向应用语言学、教育学、社会科学的统计学知识。所有内容均面向相关领域提供了定制化内容，方便理解和应用。
 
-课程大纲：
+`统计学入门 <https://wiki.chuck.vip/statistics/basic/intro/>`_： `数据趋势 <https://wiki.chuck.vip/statistics/basic/data_trends/>`_、 `描述性数据 <https://wiki.chuck.vip/statistics/basic/descriptive/>`_、 `推断性统计 <https://wiki.chuck.vip/statistics/basic/inferential/>`_、 `正态分布 <https://wiki.chuck.vip/statistics/basic/normal_distribution/>`_、 `差异检验t-test <https://wiki.chuck.vip/statistics/basic/t-test/>`_、 `相关关系 <https://wiki.chuck.vip/statistics/basic/association/>`_、 `效应量 <https://wiki.chuck.vip/statistics/basic/effect_size/>`_
 
-`统计学入门 <https://wiki.chuck.vip/statistics/basic/intro/>`_： `数据趋势 <https://wiki.chuck.vip/statistics/basic/data_trends/>`_、 `描述性数据 <https://wiki.chuck.vip/statistics/basic/descriptive/>`_、 `推断性统计 <https://wiki.chuck.vip/statistics/basic/inferential/>`_、 `正态分布 <https://wiki.chuck.vip/statistics/basic/normal_distribution/>`_、 `差异检验 <https://wiki.chuck.vip/statistics/basic/t-test/>`_
-
-统计学进阶：
+统计学进阶： `回归 <https://wiki.chuck.vip/statistics/intermediate/regression/>`_、 `方差分析ANOVA <https://wiki.chuck.vip/statistics/intermediate/anova/>`_、 `逻辑回归 <https://wiki.chuck.vip/statistics/intermediate/logistics/>`_
 
 统计学精通：
+
+问卷分析专题：
 
 
 应用语言学推荐书目
 ==================
+
 
 二语习得理论、社会语言学、个体差异、
 
 教学法、研究法、量性分析方法、质性分析方法
 
 SSCI收录期刊列表（2024年最新）
-
 
 
 教育&人工智能

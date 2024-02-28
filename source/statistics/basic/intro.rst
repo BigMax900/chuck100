@@ -6,9 +6,9 @@
    :caption: 统计学入门
 
    intro
-   data_trends
    descriptive
    inferential
+   p_value
    normal_distribution
    t-test
    association
