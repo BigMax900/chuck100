@@ -14,8 +14,24 @@
    :caption: 统计学
 
    statistics/intro
-   statistics/descriptive
+   statistics/basic_concepts
+   statistics/data_trends
    statistics/inferential
+   statistics/normal_distribution
+   statistics/t-test
+   statistics/association
+   statistics/effect_size
+   statistics/descriptive
+   statistics/regression
+   statistics/ANOVA
+   statistics/ANCOVA
+   statistics/logistics
+   statistics/mediation
+   statistics/moderation
+   statistics/interaction
+   statistics/factor_analysis
+   statistics/missing_data
+
 
 应用语言学推荐书目
 ==================
@@ -25,6 +41,17 @@
 
    book/sociolinguistics
    book/sla
+
+教育+AI
+==================
+本套课程聚焦教育领域的实用AI技术。
+
+.. toctree::
+   :maxdepth: 1
+   :caption: 教育+AI
+
+   AI/intro
+   AI/concepts
 
 我的课程
 ==================
