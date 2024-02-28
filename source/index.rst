@@ -13,9 +13,9 @@
    :maxdepth: 2
    :caption: 统计学
 
-   intro
-   descriptive_statistics/index
-   inferential_statistics
+   statistics/intro
+   statistics/descriptive_statistics
+   statistics/inferential_statistics
 
 应用语言学推荐书目
 ==================
