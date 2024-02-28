@@ -2,7 +2,7 @@
 ==========
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: 统计学入门
 
     data_trends
