@@ -5,6 +5,6 @@
    :maxdepth: 1
    :caption: 统计学入门
 
-    basic/data_trends
-    basic/descriptive
-    basic/effect_size
+    data_trends
+    descriptive
+    effect_size
