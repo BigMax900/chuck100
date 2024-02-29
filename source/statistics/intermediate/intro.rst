@@ -6,7 +6,6 @@
    :maxdepth: 2
    :caption: 统计学进阶
    
-   intro
    regression
    ANOVA
    ANCOVA
