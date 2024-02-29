@@ -28,7 +28,7 @@
 
 本套课程聚焦教育领域的实用AI技术。在开始人工智能学习之前，请认真阅读 `学习路线 <https://wiki.chuck.vip/ai/intro/>`_。
 
-监督学习部分难度并不大，监督学习部分的难点在于理解Python代码，其实这也是一个熟能生巧的过程。监督学习部分用到的统计学原理远没有`统计学高阶 <https://wiki.chuck.vip/statistics/advanced/intro/>`_所运用的统计学知识深奥，推荐在一周内学完，尽快进入深度学习模块。
+监督学习部分难度并不大，监督学习部分的难点在于理解Python代码，其实这也是一个熟能生巧的过程。监督学习部分用到的统计学原理远没有 `统计学高阶 <https://wiki.chuck.vip/statistics/advanced/intro/>`_所运用的统计学知识深奥，推荐在一周内学完，尽快进入深度学习模块。
 
 监督学习：`线性回归 <https://wiki.chuck.vip/ai/supervised/linear_regression/>`_、`感知器 <https://wiki.chuck.vip/ai/supervised/perceptron/>`_、`逻辑回归 <https://wiki.chuck.vip/ai/supervised/logistic_regression/>`_、`贝叶斯分类 <https://wiki.chuck.vip/ai/supervised/bayes_classifiers/>`_、`K最近邻算法 <https://wiki.chuck.vip/ai/supervised/knn/>`_
 
