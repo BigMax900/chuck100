@@ -21,7 +21,6 @@
 应用语言学推荐书目
 ==================
 
-
 二语习得理论、社会语言学、个体差异、
 
 教学法、研究法、量性分析方法、质性分析方法
@@ -39,9 +38,7 @@ SSCI收录期刊列表（2024年最新）
 我的课程
 ==================
 
-`1对1个性化VIP课程 <https://wiki.chuck.vip/course/1v1/>`_
-
-`精品录播课 <https://wiki.chuck.vip/course/class/>`_
+`1对1个性化VIP课程 <https://wiki.chuck.vip/course/1v1/>`_、 `精品录播课 <https://wiki.chuck.vip/course/class/>`_
 
 
 站点目录
