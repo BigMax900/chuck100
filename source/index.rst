@@ -4,12 +4,12 @@
 
 欢迎访问满分察克的学习网站，
 
-我会在这里持续更新文科生常用的统计学知识，教育领域人工智能应用、英语老师教学材料，以及每个领域的推荐书籍。
+这里将持续更新文科生常用的统计学知识，教育领域人工智能知识、英语教学材料，以及应用语言学各领域的推荐书籍。
 
 统计学（面向语言专业）
 ==================
 
-介绍面向应用语言学、教育学、社会科学的统计学知识。所有内容均面向相关领域提供了定制化内容，方便理解和应用。
+本模块重点介绍面向应用语言学、教育学、社会科学的统计学知识。所有内容均面向语言学习领域提供了定制化内容，方便理解和应用。每个统计学方法介绍了3到4种计算方法，分别是SPSS、Excel、Python、R语言。一般来讲Python和R语言可以实现所有统计方法的计算，Excel只可以实现统计学入门单元的所有计算，SPSS只可以实现统计学进阶的所有计算。
 
 统计学入门： `数据趋势 <https://wiki.chuck.vip/statistics/basic/data_trends/>`_、 `描述性数据 <https://wiki.chuck.vip/statistics/basic/descriptive/>`_、 `推断性统计 <https://wiki.chuck.vip/statistics/basic/inferential/>`_、 `正态分布 <https://wiki.chuck.vip/statistics/basic/normal_distribution/>`_、 `差异检验t-test <https://wiki.chuck.vip/statistics/basic/t-test/>`_、 `相关关系 <https://wiki.chuck.vip/statistics/basic/association/>`_、 `效应量 <https://wiki.chuck.vip/statistics/basic/effect_size/>`_
 
