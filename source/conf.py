@@ -17,8 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-©满分察克2023-2024 本网站全部内容均已收录Turnitin，引用时请注意学术规范。
-小红书：满分察克
+project = '©满分察克2023-2024 本网站全部内容均已收录Turnitin，引用时请注意学术规范。'
+copyright = ''
+author = '小红书：满分察克'
 
 # The full version, including alpha/beta/rc tags
 release = 'v0.0.1 beta'
