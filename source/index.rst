@@ -23,6 +23,13 @@
 
 在统计学高阶阶段，SPSS无法完成这些计算项目。但是IBM公司提供了进阶工具——SPSS Amos，用它可以实现以上所有计算。除此之外，R和Python也可以完成以上计算，初期入门R和Python有一定难度，这里察克老师推荐花一周时间，挑选一种语言（这里强推Python，组件选择更多），集中学习。不需要学得太深，只需要掌握数据分析的基础语法即可，遇到了报错就直接问ChatGPT。
 
+教育&人工智能
+==================
+本套课程聚焦教育领域的实用AI技术。
+
+在开始人工智能学习之前，请认真阅读 `学习路线 <https://wiki.chuck.vip/ai/intro/>`_ 。
+
+监督学习： `线性回归 <https://wiki.chuck.vip/ai/supervised/linear_regression/>`_ 、 `感知器 <https://wiki.chuck.vip/ai/supervised/perceptron/>`_ 、 `逻辑回归 <https://wiki.chuck.vip/ai/supervised/logistic_regression/>`_ 、 `贝叶斯分类 <https://wiki.chuck.vip/ai/supervised/bayes_classifiers/>`_ 
 
 应用语言学推荐书目
 ==================
@@ -32,14 +39,6 @@
 教学法、研究法、量性分析方法、质性分析方法
 
 SSCI收录期刊列表（2024年最新）
-
-
-教育&人工智能
-==================
-本套课程聚焦教育领域的实用AI技术。
-
-`监督学习 <https://wiki.chuck.vip/ai/supervised/intro/>`_： `线性回归 <https://wiki.chuck.vip/ai/supervised/linear_regression/>`_、
-
 
 我的课程
 ==================
