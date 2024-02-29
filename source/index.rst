@@ -15,7 +15,7 @@
 
 统计学进阶： `回归 <https://wiki.chuck.vip/statistics/intermediate/regression/>`_、 `方差分析ANOVA <https://wiki.chuck.vip/statistics/intermediate/anova/>`_、 `协方差分析 <https://wiki.chuck.vip/statistics/intermediate/ANCOVA/>`_、 `逻辑回归 <https://wiki.chuck.vip/statistics/intermediate/logistics/>`_、 `中介分析 <https://wiki.chuck.vip/statistics/intermediate/mediation/#>`_、 `调节分析 <https://wiki.chuck.vip/statistics/intermediate/moderation/#>`_、 `因子分析 <https://wiki.chuck.vip/statistics/intermediate/factor_analysis/#>`_
 
-统计学高阶：`结构方程模型 <>`_
+统计学高阶： `验证性因子分析 <https://wiki.chuck.vip/statistics/advanced/cfa/>`_、 `结构方程模型 <https://wiki.chuck.vip/statistics/advanced/sem/>`_、 `潜在增长模型 <https://wiki.chuck.vip/statistics/advanced/lgcm/>`_、 `交叉延宕模型 <https://wiki.chuck.vip/statistics/advanced/clpm/>`_
 
 
 应用语言学推荐书目
