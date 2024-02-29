@@ -5,7 +5,6 @@
    :maxdepth: 2
    :caption: 统计学入门
 
-   intro
    descriptive
    inferential
    p_value
