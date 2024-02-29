@@ -64,6 +64,5 @@ html_static_path = ['_static']
 html_title = "满分察克"
 
 html_theme_options = {
-    "extra_footer": "<div>小红书:满分察克</div>",
-    "extra_footer": "<div>©满分察克2023-2024，本网站全部内容均已收录Turnitin，引用时请注意学术规范。</div>",
+    "extra_footer": "<div>小红书:满分察克<br>©满分察克2023-2024，本网站全部内容均已收录Turnitin，引用时请注意学术规范。<br>最后修订时间：2024年3月1日 00:15 于 英国牛津</div>"
 }
