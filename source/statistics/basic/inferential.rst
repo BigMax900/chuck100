@@ -39,7 +39,7 @@
 
 方法：选取不同年龄段的学习者，进行为期一年的语言学习，记录学习成果。
 
-分析：利用 `方差分析(ANOVA) <https://wiki.chuck.vip/statistics/intermediate/anova/>`_比较不同年龄组学习者的语言学习成效，以推断年龄对第二语言习得的可能影响。
+分析：利用 `方差分析(ANOVA) <https://wiki.chuck.vip/statistics/intermediate/anova/>`_ 比较不同年龄组学习者的语言学习成效，以推断年龄对第二语言习得的可能影响。
 
 总结
 -----
