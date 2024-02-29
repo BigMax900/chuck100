@@ -72,6 +72,7 @@ SSCI收录期刊列表（2024年最新）
    AI/ml/intro
    AI/dl/intro
    AI/nlp/intro
+   AI/cv/intro
 
 .. toctree::
    :maxdepth: 1
