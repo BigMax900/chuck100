@@ -12,6 +12,8 @@ SVM通过最大化不同类别之间的边缘来工作。对于线性可分的�
 
    \min_{\mathbf{w},b} \frac{1}{2} \|\mathbf{w}\|^2
 
+.. math::
+    
    \text{subject to } y_i (\mathbf{w} \cdot \mathbf{x}_i + b) \geq 1, \; \forall i
 
 其中，\(\mathbf{w}\)是超平面的法向量，\(b\)是偏移量，\(y_i\)是每个样本的类别（+1或-1），\(\mathbf{x}_i\)是每个样本的特征向量。
