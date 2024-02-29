@@ -6,6 +6,7 @@
    :maxdepth: 2
    :caption: 统计学高阶
    
+    intro
     sem
     lgcm
     clpm
