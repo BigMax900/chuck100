@@ -27,9 +27,9 @@
 ==================
 本套课程聚焦教育领域的实用AI技术。
 
-在开始人工智能学习之前，请认真阅读 `学习路线 <https://wiki.chuck.vip/ai/intro/>`_ 。
+在开始人工智能学习之前，请认真阅读 `学习路线 <https://wiki.chuck.vip/ai/intro/>`_。
 
-监督学习： `线性回归 <https://wiki.chuck.vip/ai/supervised/linear_regression/>`_ 、 `感知器 <https://wiki.chuck.vip/ai/supervised/perceptron/>`_ 、 `逻辑回归 <https://wiki.chuck.vip/ai/supervised/logistic_regression/>`_ 、 `贝叶斯分类 <https://wiki.chuck.vip/ai/supervised/bayes_classifiers/>`_ 
+监督学习：`线性回归 <https://wiki.chuck.vip/ai/supervised/linear_regression/>`_、 `感知器 <https://wiki.chuck.vip/ai/supervised/perceptron/>`_、 `逻辑回归 <https://wiki.chuck.vip/ai/supervised/logistic_regression/>`_、 `贝叶斯分类 <https://wiki.chuck.vip/ai/supervised/bayes_classifiers/>`_
 
 应用语言学推荐书目
 ==================
