@@ -20,7 +20,7 @@
 
     f(x | \mu, \sigma^2) = \frac{1}{\sigma \sqrt{2\pi}} e^{-\frac{(x - \mu)^2}{2\sigma^2}}
 
-其中，:math:`x`` 表示随机变量的取值，:math:`\mu` 表示均值，:math:`\sigma^2`表示方差。
+其中，:math:`x` 表示随机变量的取值，:math:`\mu` 表示均值，:math:`\sigma^2` 表示方差。
 
 常用符号表示
 ----------------
