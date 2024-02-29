@@ -12,7 +12,7 @@
 
    cov(X, Y) = \frac{\sum_{i=1}^{n} (X_i - \bar{X})(Y_i - \bar{Y})}{n-1}
 
-其中， :math:`X` 和 :math:`Y` 是两个随机变量， :math:`\bar{X}` 和 :math:`\bar{Y}` 分别是它们的样本均值，\(n\) 是样本大小。
+其中， :math:`X` 和 :math:`Y` 是两个随机变量， :math:`\bar{X}` 和 :math:`\bar{Y}` 分别是它们的样本均值， :math:`n` 是样本大小。
 
 类型
 ----
