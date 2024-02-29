@@ -7,6 +7,7 @@
    :caption: 统计学进阶
    
    intro
+   cfa
    sem
    lgcm
    clpm
