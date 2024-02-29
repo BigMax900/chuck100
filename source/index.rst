@@ -13,9 +13,15 @@
 
 统计学入门： `数据趋势 <https://wiki.chuck.vip/statistics/basic/data_trends/>`_、 `描述性数据 <https://wiki.chuck.vip/statistics/basic/descriptive/>`_、 `推断性统计 <https://wiki.chuck.vip/statistics/basic/inferential/>`_、 `正态分布 <https://wiki.chuck.vip/statistics/basic/normal_distribution/>`_、 `差异检验t-test <https://wiki.chuck.vip/statistics/basic/t-test/>`_、 `相关关系 <https://wiki.chuck.vip/statistics/basic/association/>`_、 `效应量 <https://wiki.chuck.vip/statistics/basic/effect_size/>`_
 
+在统计学入门阶段，所有运算过程用Excel就可以完成，只要输入对应函数一键操作，同时也可以给出图表。但是用Excel的劣势在于没有办法给出精细的指标，对于初学者，还是更推荐使用SPSS进行数据运算。
+
 统计学进阶： `回归 <https://wiki.chuck.vip/statistics/intermediate/regression/>`_、 `方差分析ANOVA <https://wiki.chuck.vip/statistics/intermediate/anova/>`_、 `协方差分析 <https://wiki.chuck.vip/statistics/intermediate/ANCOVA/>`_、 `逻辑回归 <https://wiki.chuck.vip/statistics/intermediate/logistics/>`_、 `中介分析 <https://wiki.chuck.vip/statistics/intermediate/mediation/#>`_、 `调节分析 <https://wiki.chuck.vip/statistics/intermediate/moderation/#>`_、 `因子分析 <https://wiki.chuck.vip/statistics/intermediate/factor_analysis/#>`_
 
+在统计学进阶阶段，就必须学习使用SPSS了。SPSS的好处在于图形界面，只要跟着教程点点鼠标就可以得到准确的结果，也可以直接做图。
+
 统计学高阶： `验证性因子分析 <https://wiki.chuck.vip/statistics/advanced/cfa/>`_、 `结构方程模型 <https://wiki.chuck.vip/statistics/advanced/sem/>`_、 `潜在增长模型 <https://wiki.chuck.vip/statistics/advanced/lgcm/>`_、 `交叉延宕模型 <https://wiki.chuck.vip/statistics/advanced/clpm/>`_
+
+统计学高阶阶段，SPSS基础数据包无法完成这些计算项目。但是SPSS Amos可以实现以上所有计算。除此之外R和Python也可以完成以上计算，初期入门R和Python有一定难度，这里察克老师推荐花一周时间，挑选一种语言（这里强推Python，功能更多），集中学习。不需要学得太深，只需要掌握数据分析的基础语法即可。
 
 
 应用语言学推荐书目
