@@ -20,7 +20,7 @@
 
    \eta^2 = \frac{SS_{between}}{SS_{total}}
 
-其中，:math:`bar{X}_1` 和 :math:`bar{X}_2` 是两个群体的平均值， :math:`s_{pooled}` 是合并标准差。
+其中，:math:`\bar{X}_1` 和 :math:`\bar{X}_2` 是两个群体的平均值， :math:`s_{pooled}` 是合并标准差。
 
 语言学习领域的案例
 -------------------
