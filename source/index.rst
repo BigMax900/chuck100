@@ -6,10 +6,10 @@
 
 这里将持续更新文科生常用的统计学知识，教育领域人工智能知识、英语教学材料，以及应用语言学各领域的推荐书籍。
 
-统计学（面向语言专业）
+统计学
 ==================
 
-本模块统计学知识，包括每一种统计方法的定义、作用和用途、软件使用方法、以及每种方法的优劣势和限制。所有内容均面向语言教学领域提供了定制化内容，方便理解和应用。每个方法均介绍了3到4种计算方法，分别是SPSS、Excel、Python、R语言。一般来讲Python和R语言可以实现所有统计方法的计算，Excel只可以实现统计学入门单元的所有计算，SPSS只可以实现统计学进阶的所有计算。
+本模块介绍 **语言专业** 涉及到的各种统计方法的定义、作用和用途、软件使用方法、优劣势。面向语言教学领域提供了定制化内容，方便理解和应用。每个方法均介绍了3到4种计算方法，分别是SPSS、Excel、Python、R语言。一般来讲，Python和R语言可以实现所有统计方法的计算，Excel只可以实现统计学入门单元的所有计算，SPSS只可以实现统计学进阶的所有计算。
 
 统计学入门：`数据趋势 <https://wiki.chuck.vip/statistics/basic/data_trends/>`_、`描述性数据 <https://wiki.chuck.vip/statistics/basic/descriptive/>`_、`推断性统计 <https://wiki.chuck.vip/statistics/basic/inferential/>`_、`正态分布 <https://wiki.chuck.vip/statistics/basic/normal_distribution/>`_、`差异检验t-test <https://wiki.chuck.vip/statistics/basic/t-test/>`_、`相关关系 <https://wiki.chuck.vip/statistics/basic/association/>`_、`效应量 <https://wiki.chuck.vip/statistics/basic/effect_size/>`_
 
