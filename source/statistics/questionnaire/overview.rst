@@ -65,4 +65,4 @@
 
 参考文献
 -------------------------------------------
-Boateng, G. O., Neilands, T. B., Frongillo, E. A., Melgar-Quiñonez, H. R., & Young, S. L. (2018). *Best practices for developing and validating scales for health, social, and behavioral research: A primer*. Frontiers in Public Health, 6. `https://doi.org/10.3389/fpubh.2018.00149 <https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2018.00149>`_
+   1. Boateng, G. O., Neilands, T. B., Frongillo, E. A., Melgar-Quiñonez, H. R., & Young, S. L. (2018). *Best practices for developing and validating scales for health, social, and behavioral research: A primer*. Frontiers in Public Health, 6. `https://doi.org/10.3389/fpubh.2018.00149 <https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2018.00149>`_
