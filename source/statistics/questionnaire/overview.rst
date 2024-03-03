@@ -61,3 +61,7 @@
    5. 在数据收集和分析过程中，要进行适当的质量控制。
    6. 考虑使用多种数据收集和分析方法，以增强研究的严谨性。
    7. 分析结果后，应考虑其对实际政策或实践的影响，并根据需要进行调整。
+
+参考文献：
+
+Boateng, G. O., Neilands, T. B., Frongillo, E. A., Melgar-Quiñonez, H. R., & Young, S. L. (2018). *Best practices for developing and validating scales for health, social, and behavioral research: A primer*. Frontiers in Public Health, 6. `https://doi.org/10.3389/fpubh.2018.00149 <https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2018.00149>`_
