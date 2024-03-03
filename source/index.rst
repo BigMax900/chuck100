@@ -23,6 +23,8 @@
 
 在统计学高阶阶段，SPSS无法完成这些计算项目。但是IBM公司提供了进阶工具——SPSS Amos，用它可以实现以上所有计算。除此之外，R和Python也可以完成以上计算，初期入门R和Python有一定难度，这里察克老师推荐花一周时间，挑选一种语言（这里强推Python，组件选择更多），集中学习。不需要学得太深，只需要掌握数据分析的基础语法即可，遇到了报错就直接问ChatGPT。
 
+综合应用：量性研究问卷研发
+
 教育&人工智能
 ==================
 
@@ -58,6 +60,7 @@ SSCI收录期刊列表（2024年最新）
    statistics/basic/intro
    statistics/intermediate/intro
    statistics/advanced/intro
+   statistics/questionnaire/intro
 
 .. toctree::
    :maxdepth: 1
