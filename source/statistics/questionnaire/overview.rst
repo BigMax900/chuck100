@@ -55,6 +55,7 @@
 
 其他注意事项 (Additional Considerations)
 -------------------------------------------
+
    1. 在整个研究过程中，确保遵循伦理准则，包括保护参与者隐私和数据安全。
    2. 确保在研究开始前获得所有必要的批准和知情同意。
    3. 考虑包括多样性和包容性的原则，确保问卷对所有受访者都是公平的。
@@ -65,4 +66,5 @@
 
 参考文献
 -------------------------------------------
+
    1. Boateng, G. O., Neilands, T. B., Frongillo, E. A., Melgar-Quiñonez, H. R., & Young, S. L. (2018). *Best practices for developing and validating scales for health, social, and behavioral research: A primer*. Frontiers in Public Health, 6. `https://doi.org/10.3389/fpubh.2018.00149 <https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2018.00149>`_
